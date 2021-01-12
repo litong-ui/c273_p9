@@ -1,5 +1,6 @@
 <?php
 
-echo "test azure";
-
+for ($i = 0; $i < 1000; $i++) {
+    echo "狗杰";
+}
 ?>
